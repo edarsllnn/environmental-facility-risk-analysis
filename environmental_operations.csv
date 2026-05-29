@@ -1,0 +1,11 @@
+date,facility,waste_type,waste_kg,water_m3,energy_kwh,limit_exceeded
+2026-01-01,Plant A,Plastic,120,35,420,No
+2026-01-02,Plant B,Chemical,85,50,610,Yes
+2026-01-03,Plant A,Organic,140,40,455,No
+2026-01-04,Plant C,Chemical,95,65,700,Yes
+2026-01-05,Plant B,Plastic,110,48,590,No
+2026-01-06,Plant C,Organic,130,60,680,No
+2026-01-07,Plant A,Chemical,75,38,430,No
+2026-01-08,Plant B,Organic,160,55,640,Yes
+2026-01-09,Plant C,Plastic,105,62,710,No
+2026-01-10,Plant A,Plastic,115,36,425,No
