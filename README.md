@@ -1,4 +1,4 @@
-# Environmental Facility Risk Analysis
+# Environmental Facility Risk Analysis & Dashboard
 
 ## Objective
 
@@ -33,9 +33,14 @@ Columns:
 
 The two tables are joined using the `facility` column.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
 ## Tools Used
 
 - SQL
+- Power BI
 - SQLite
 - Data analysis
 - Risk classification
@@ -53,6 +58,17 @@ The two tables are joined using the `facility` column.
 - Subqueries
 - Business recommendation based on data analysis
 
+## Power BI Skills Demonstrated
+
+- Data import from CSV
+- Data modeling
+- Relationship creation
+- KPI cards
+- Bar charts
+- Slicers
+- Summary table
+- Dashboard layout design
+  
 ## Key Metrics
 
 - Total waste
@@ -107,3 +123,7 @@ The main waste type to monitor is Plastic, because it has the highest total wast
 ## Project Summary
 
 This project shows how SQL can be used to analyze environmental operations data, classify facility-level risk, and support management decision-making through data-driven recommendations.
+
+## Dashboard Summary
+
+The Power BI dashboard provides a visual overview of facility-level environmental performance. It includes KPI cards for total waste, total water usage, total energy consumption, and compliance violations. The dashboard also includes facility-level comparisons, waste type analysis, region and manager filters, and a facility risk summary table.
